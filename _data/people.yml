@@ -1,400 +1,404 @@
- - name: Prof. Alessandro Roncone
-   role: faculty
-   url: https://alessandro.ronc.one
-   office: ECES 124
-   phone: +1 (303) 735-6233
-   email: alessandro.roncone@colorado.edu
-   pic: alecive.jpg
+- name: Prof. Alessandro Roncone
+  role: faculty
+  url: https://alessandro.ronc.one
+  office: ECES 124
+  phone: +1 (303) 735-6233
+  email: alessandro.roncone@colorado.edu
+  pic: alecive.jpg
 
 #lab Manager
- - name: Dusty Woods
-   role: labmanager
-   office: ECES 111
-   phone: +1 (303) 735-5953
-   email: dewo3276@colorado.edu
-   pic: dusty.jpg
+- name: Dusty Woods
+  role: labmanager
+  office: ECES 111
+  phone: +1 (303) 735-5953
+  email: dewo3276@colorado.edu
+  pic: dusty.jpg
 
 # Postdocs
 
- # - name: Shiran Dudy
- #   role: postdoc
- #   url: http://www.shirandudy.com
- #   email: shiran.dudy@colorado.edu
- #   pic: shiran.jpg
+# - name: Shiran Dudy
+#   role: postdoc
+#   url: http://www.shirandudy.com
+#   email: shiran.dudy@colorado.edu
+#   pic: shiran.jpg
 
-
- - name: Jake Brawer
-   role: postdoc
-   url: https://jakebrawer.com
-   email: jake.brawer@colorado.edu
-   pic: jake.jpg
-
+- name: Jake Brawer
+  role: postdoc
+  url: https://jakebrawer.com
+  email: jake.brawer@colorado.edu
+  pic: jake.jpg
 
 # PhD Students
 # [in order of first appearance in the lab]
 
- - name: Joewie J. Koh
-   role: phd
-   url: https://joewiekoh.com
-   email: joewie.koh@colorado.edu
-   pic: joewie.jpg
+- name: Joewie J. Koh
+  role: phd
+  url: https://joewiekoh.com
+  email: joewie.koh@colorado.edu
+  pic: joewie.jpg
 
- - name: Anuj Pasricha
-   role: phd
-   page: anuj
-   url: https://anuj.carrd.co
-   email: anuj.pasricha@colorado.edu
-   pic: anuj.jpg
+- name: Anuj Pasricha
+  role: phd
+  page: anuj
+  url: https://anuj.carrd.co
+  email: anuj.pasricha@colorado.edu
+  pic: anuj.jpg
 
- - name: Caleb Escobedo
-   role: phd
-   page: caleb
-   email: caleb.escobedo@colorado.edu
-   pic: caleb.jpg
+- name: Caleb Escobedo
+  role: phd
+  page: caleb
+  email: caleb.escobedo@colorado.edu
+  pic: caleb.jpg
 
- - name: Kayleigh (Kaleb) Bishop
-   role: phd
-   url: https://kalebishop.github.io
-   email: kabi2483@colorado.edu
-   pic: kaleb.jpg
+- name: Kayleigh (Kaleb) Bishop
+  role: phd
+  url: https://kalebishop.github.io
+  email: kabi2483@colorado.edu
+  pic: kaleb.jpg
 
- - name: Yi-Shiuan Tung
-   role: phd
-   url: https://yi-shiuan-tung.github.io
-   email: yi-shiuan.tung@colorado.edu
-   pic: yishiuan.jpg
+- name: Yi-Shiuan Tung
+  role: phd
+  url: https://yi-shiuan-tung.github.io
+  email: yi-shiuan.tung@colorado.edu
+  pic: yishiuan.jpg
 
- - name: Stéphane Aroca-Ouellette
-   role: phd
-   url: https://stephao.github.io/
-   email: star7023@colorado.edu
-   pic: stephane.png
+- name: Stéphane Aroca-Ouellette
+  role: phd
+  url: https://stephao.github.io/
+  email: star7023@colorado.edu
+  pic: stephane.png
 
- - name: Clare Lohrmann
-   role: phd
-   email: clare.lohrmann@colorado.edu
-   pic: clare.jpg
+- name: Clare Lohrmann
+  role: phd
+  email: clare.lohrmann@colorado.edu
+  pic: clare.jpg
 
- - name: Gilberto Briscoe-Martinez
-   role: phd
-   linkedin: gbmartinez
-   url: https://gilberto.martinez.phd
-   email: gilberto.briscoe-martinez@colorado.edu
-   pic: gilberto.png
+- name: Gilberto Briscoe-Martinez
+  role: phd
+  linkedin: gbmartinez
+  url: https://gilberto.martinez.phd
+  email: gilberto.briscoe-martinez@colorado.edu
+  pic: gilberto.png
 
- - name: Nataliya Nechyporenko
-   role: phd
-   url: https://nataliya.dev
-   email: nataliya@colorado.edu
-   pic: nataliya.jpg
+- name: Nataliya Nechyporenko
+  role: phd
+  url: https://nataliya.dev
+  email: nataliya@colorado.edu
+  pic: nataliya.jpg
 
- - name: Chi-Hui Lin
-   role: phd
-   email: chli4608@colorado.edu
-   pic: chihui.jpg
+- name: Chi-Hui Lin
+  role: phd
+  email: chli4608@colorado.edu
+  pic: chihui.jpg
 
- - name: Srikrishna Bangalore Raghu
-   role: phd
-   email: srba2850@colorado.edu
-   pic: srikrishna.jpg
+- name: Srikrishna Bangalore Raghu
+  role: phd
+  email: srba2850@colorado.edu
+  pic: srikrishna.jpg
 
- - name: Ava Abderezaei
-   role: phd
-   url: https://avv-va.github.io/
-   email: ava.abderezaei@colorado.edu
-   pic: ava.jpg
+- name: Ava Abderezaei
+  role: phd
+  url: https://avv-va.github.io/
+  email: ava.abderezaei@colorado.edu
+  pic: ava.jpg
 
 # Graduate Students
 # [in order of first appearance in the lab]
- - name: Joe Miceli
-   role: grad
-   linkedin: joseph-miceli
-   email: joe.miceli@colorado.edu
-   pic: jmiceli.jpg
+- name: Joe Miceli
+  role: grad
+  linkedin: joseph-miceli
+  email: joe.miceli@colorado.edu
+  pic: jmiceli.jpg
 
- - name: Nikhil Barhate
-   role: grad
-   url: https://nikhilbarhate99.github.io
-   email: nikhil.barhate@colorado.edu
-   pic: nikhilb.jpeg
+- name: Nikhil Barhate
+  role: grad
+  url: https://nikhilbarhate99.github.io
+  email: nikhil.barhate@colorado.edu
+  pic: nikhilb.jpeg
 
- - name: Vatsal Verma
-   role: grad
-   url: https://vatsalverma.netlify.app/
-   email: vatsal.verma@colorado.edu
-   pic: vatsal.jpg
+- name: Vatsal Verma
+  role: grad
+  url: https://vatsalverma.netlify.app/
+  email: vatsal.verma@colorado.edu
+  pic: vatsal.jpg
 
- - name: Idriss Djiofack Teledjieu
-   role: grad
-   url: https://idrissdjio.github.io
-   email: idriss.djiofackteledjieu@colorado.edu
-   pic: idriss.jpg
-  
- - name: Rithik Kumar Athiganur Senthil
-   role: grad
-   url: https://www.linkedin.com/in/rithik-kumar-19a389238/
-   email: rithik.athiganursenthil@colorado.edu
-   pic: rithik.jpg
+- name: Idriss Djiofack Teledjieu
+  role: grad
+  url: https://idrissdjio.github.io
+  email: idriss.djiofackteledjieu@colorado.edu
+  pic: idriss.jpg
 
- - name: Niharika Sathyanarayana
-   role: grad
-   url: https://www.linkedin.com/in/niharika-sathyanarayana-3219101ba/
-   email: niharika.sathyanarayana@colorado.edu
-   pic: niharika.jpg
+- name: Rithik Kumar Athiganur Senthil
+  role: grad
+  url: https://www.linkedin.com/in/rithik-kumar-19a389238/
+  email: rithik.athiganursenthil@colorado.edu
+  pic: rithik.jpg
 
- - name: Sai Krishna Sriram
-   role: grad
-   url: https://saikrishnasriram.netlify.app/
-   email: saikrishna.sriram@colorado.edu
-   pic: KrishnaS.jpg
-   
- - name: Sai Pratheek KVDSNK
-   role: grad
-   url: https://www.linkedin.com/in/pratheekkv/
-   email: saipratheek.kerthivenkata@colorado.edu
-   pic: Pratheek.jpg
+- name: Niharika Sathyanarayana
+  role: grad
+  url: https://www.linkedin.com/in/niharika-sathyanarayana-3219101ba/
+  email: niharika.sathyanarayana@colorado.edu
+  pic: niharika.jpg
+
+- name: Sai Krishna Sriram
+  role: grad
+  url: https://saikrishnasriram.netlify.app/
+  email: saikrishna.sriram@colorado.edu
+  pic: KrishnaS.jpg
+
+- name: Sai Pratheek KVDSNK
+  role: grad
+  url: https://www.linkedin.com/in/pratheekkv/
+  email: saipratheek.kerthivenkata@colorado.edu
+  pic: Pratheek.jpg
 
 # Undergraduate Students
 # [in order of first appearance in the lab]
 
- - name: Matthew Eccles
-   role: undergrad
-   email: maec4462@coloardo.edu
-   pic: eccles.jpg
+- name: Matthew Eccles
+  role: undergrad
+  email: maec4462@coloardo.edu
+  pic: eccles.jpg
 
- - name: Freddy Linn
-   role: undergrad
-   linkedin: frederick-linn
-   email: frli5468@colorado.edu
-   pic: freddy.png
+- name: Freddy Linn
+  role: undergrad
+  linkedin: frederick-linn
+  email: frli5468@colorado.edu
+  pic: freddy.png
 
- - name: Carson Kohlbrenner
-   role: undergrad
-   email: carson.kohlbrenner@colorado.edu
-   pic: carson.jpg
+- name: Carson Kohlbrenner
+  role: undergrad
+  email: carson.kohlbrenner@colorado.edu
+  pic: carson.jpg
 
- - name: Caleb Kumar
-   role: undergrad
-   email: caleb.kumar@colorado.edu
-   pic: calebk.jpg
+- name: Caleb Kumar
+  role: undergrad
+  email: caleb.kumar@colorado.edu
+  pic: calebk.jpg
 
- - name: Noah Liska 
-   role: undergrad
-   email: noah.liska@colorado.edu
-   pic: noah.png
+- name: Noah Liska
+  role: undergrad
+  email: noah.liska@colorado.edu
+  pic: noah.png
 
- - name: Weston Brach
-   role: undergrad
-   email: weston.brach@colorado.edu
-   pic: weston.jpg
+- name: Weston Brach
+  role: undergrad
+  email: weston.brach@colorado.edu
+  pic: weston.jpg
 
-   
-    
+# High School Students
+# [in order of first appearance in the lab]
+
+- name: Alex Dickhans
+  role: highschool
+  email: adickhans@gmail.com
+  pic: alex.jpg
+
 # Collaborators
 # [in order of first appearance in the lab]
 
- - name: Kelly Merckaert
-   role: collaborator
-   email: kelly.merckaert@vub.be
-   pic: kelly.jpg
+- name: Kelly Merckaert
+  role: collaborator
+  email: kelly.merckaert@vub.be
+  pic: kelly.jpg
 
- - name: Yaashia Gautam
-   role: collaborator
-   email: yaashia.gautam@colorado.edu
-   pic: yaashia.jpg
+- name: Yaashia Gautam
+  role: collaborator
+  email: yaashia.gautam@colorado.edu
+  pic: yaashia.jpg
 
 # Alumni
 # [in inverse order of when they left the lab]
 
- - name: Conor Simmons
-   role: alumni
-   linkedin: conor-simmons
-   email: cosi4983@colorado.edu
-   pic: conor.jpg
-   graduated: Spring 2023 [BS.]
-   nowat: Luxonis
+- name: Conor Simmons
+  role: alumni
+  linkedin: conor-simmons
+  email: cosi4983@colorado.edu
+  pic: conor.jpg
+  graduated: Spring 2023 [BS.]
+  nowat: Luxonis
 
- - name: Tanmay Desai
-   role: alumni
-   url: https://tanmaydesai.godaddysites.com
-   email: tanmay.desai@colorado.edu
-   pic: tanmayd.jpg
-   nowat: Colorado School of Mines [Ph.D.]
-   graduated: Spring 2023 [MS.]
+- name: Tanmay Desai
+  role: alumni
+  url: https://tanmaydesai.godaddysites.com
+  email: tanmay.desai@colorado.edu
+  pic: tanmayd.jpg
+  nowat: Colorado School of Mines [Ph.D.]
+  graduated: Spring 2023 [MS.]
 
- - name: Liam Merz Hoffmeister
-   role: alumni
-   email: lime4992@colorado.edu
-   pic: liamMH.jpg
-   nowat: Yale University [Ph.D.]
-   graduated: Spring 2022 [BS.]
+- name: Liam Merz Hoffmeister
+  role: alumni
+  email: lime4992@colorado.edu
+  pic: liamMH.jpg
+  nowat: Yale University [Ph.D.]
+  graduated: Spring 2022 [BS.]
 
- - name: Shreyas Kadekodi
-   role: alumni
-   linkedin: shreyas-kadekodi
-   email: shreyas.kadekodi@colorado.edu
-   pic: shreyas.jpg
-   nowat: University of California San Diego [Ph.D.]
-   graduated: Spring 2022 [MS.]
+- name: Shreyas Kadekodi
+  role: alumni
+  linkedin: shreyas-kadekodi
+  email: shreyas.kadekodi@colorado.edu
+  pic: shreyas.jpg
+  nowat: University of California San Diego [Ph.D.]
+  graduated: Spring 2022 [MS.]
 
- - name: Mary West
-   role: alumni
-   url: https://www.ettawest.com
-   email: mary.west@colorado.edu
-   pic: mary.png
+- name: Mary West
+  role: alumni
+  url: https://www.ettawest.com
+  email: mary.west@colorado.edu
+  pic: mary.png
 
- - name: Shiran Dudy
-   role: alumni
-   url: http://www.shirandudy.com
-   email: shiran.dudy@colorado.edu
-   pic: shiran.jpg
-   nowat: Northeastern University [Research Scientist]
+- name: Shiran Dudy
+  role: alumni
+  url: http://www.shirandudy.com
+  email: shiran.dudy@colorado.edu
+  pic: shiran.jpg
+  nowat: Northeastern University [Research Scientist]
 
- - name: Justin Brand
-   role: alumni
-   linkedin: justin-brand
-   graduated: Spring 2023 [BS.]
-   email: jubr6114@colorado.edu
-   pic: justin.jpg
+- name: Justin Brand
+  role: alumni
+  linkedin: justin-brand
+  graduated: Spring 2023 [BS.]
+  email: jubr6114@colorado.edu
+  pic: justin.jpg
 
- - name: Yuri Han
-   role: alumni
-   linkedin: yurihan903
-   graduated: Spring 2022 [BS.]
-   email: yuha2716@coloardo.edu
-   pic: yuri.jpg
+- name: Yuri Han
+  role: alumni
+  linkedin: yurihan903
+  graduated: Spring 2022 [BS.]
+  email: yuha2716@coloardo.edu
+  pic: yuri.jpg
 
- - name: Matthew Strong
-   role: alumni
-   linkedin: matthewhstrong
-   phone: +1 (720) 626 4057
-   email: mast4878@colorado.edu
-   pic: mstrong.jpg
-   graduated: Spring 2021 [BS.]
-   nowat: Stanford University [Ph.D.]
-   url: https://www.colorado.edu/cs/matthew-strong-research-award
+- name: Matthew Strong
+  role: alumni
+  linkedin: matthewhstrong
+  phone: +1 (720) 626 4057
+  email: mast4878@colorado.edu
+  pic: mstrong.jpg
+  graduated: Spring 2021 [BS.]
+  nowat: Stanford University [Ph.D.]
+  url: https://www.colorado.edu/cs/matthew-strong-research-award
 
- - name: Abhidip Bhattacharyya
-   role: alumni
-   email: abhidip.bhattacharyya@colorado.edu
-   pic: abhidip.jpg
+- name: Abhidip Bhattacharyya
+  role: alumni
+  email: abhidip.bhattacharyya@colorado.edu
+  pic: abhidip.jpg
 
- - name: Mithilesh R
-   role: alumni
-   email: mithilesh-cs071@dsce.edu.in
-   pic: mithilesh.jpg
+- name: Mithilesh R
+  role: alumni
+  email: mithilesh-cs071@dsce.edu.in
+  pic: mithilesh.jpg
 
- - name: Joseph David Galloway II
-   role: alumni
-   email: josephgalloway520@gmail.com
-   pic: joseph.jpg
+- name: Joseph David Galloway II
+  role: alumni
+  email: josephgalloway520@gmail.com
+  pic: joseph.jpg
 
- - name: Byungjin (BJ) Kim
-   role: alumni
-   linkedin: bjkim00
-   phone: +1 (217) 778 5159
-   email: byungjin.kim@colorado.edu
-   graduated: Spring 2021 [BS.]
-   nowat: Univeristy of Michigan [grad]
+- name: Byungjin (BJ) Kim
+  role: alumni
+  linkedin: bjkim00
+  phone: +1 (217) 778 5159
+  email: byungjin.kim@colorado.edu
+  graduated: Spring 2021 [BS.]
+  nowat: Univeristy of Michigan [grad]
 
- - name: Ander Aramburu Fernandez
-   role: alumni
-   email: ander.aranfdz@gmail.com
+- name: Ander Aramburu Fernandez
+  role: alumni
+  email: ander.aranfdz@gmail.com
 
- - name: Mitchell D Scott
-   role: alumni
-   linkedin: mitchelldysescott
-   email: misc4432@colorado.edu
-   pic: mitchellscott.jpg
+- name: Mitchell D Scott
+  role: alumni
+  linkedin: mitchelldysescott
+  email: misc4432@colorado.edu
+  pic: mitchellscott.jpg
 
- - name: Guohui Ding
-   role: alumni
-   graduated: Spring 2021 [Ph.D.]
-   nowat: Facebook
+- name: Guohui Ding
+  role: alumni
+  graduated: Spring 2021 [Ph.D.]
+  nowat: Facebook
 
- - name: Abhilash Jahagirdar
-   role: alumni
-   email: abhilash.jahagirdar@colorado.edu
-   linkedin: abhilashjahagirdar
-   pic: abhilash.jpg
+- name: Abhilash Jahagirdar
+  role: alumni
+  email: abhilash.jahagirdar@colorado.edu
+  linkedin: abhilashjahagirdar
+  pic: abhilash.jpg
 
- - name: Andrew Chen
-   role: alumni
-   graduated: Spring 2019 [M.S.]
-   nowat: Amazon
-   pic: andrew.jpg
+- name: Andrew Chen
+  role: alumni
+  graduated: Spring 2019 [M.S.]
+  nowat: Amazon
+  pic: andrew.jpg
 
- - name: Sean Shaifubahrim
-   role: alumni
-   graduated: Spring 2019 [B.S.]
-   pic: sean.jpg
+- name: Sean Shaifubahrim
+  role: alumni
+  graduated: Spring 2019 [B.S.]
+  pic: sean.jpg
 
- - name: Dongming Chang
-   role: alumni
-   pic: dongming.jpg
+- name: Dongming Chang
+  role: alumni
+  pic: dongming.jpg
 
- - name: Sayali Sonawane
-   role: alumni
-   graduated: Spring 2019 [M.S.]
-   nowat: Lumen
-   pic: sayali.jpg
+- name: Sayali Sonawane
+  role: alumni
+  graduated: Spring 2019 [M.S.]
+  nowat: Lumen
+  pic: sayali.jpg
 
- - name: Chi-Ju Wu
-   role: alumni
-   graduated: Spring 2020 [M.S.]
-   nowat: Zoox
-   pic: sayter.jpg
+- name: Chi-Ju Wu
+  role: alumni
+  graduated: Spring 2020 [M.S.]
+  nowat: Zoox
+  pic: sayter.jpg
 
- - name: Jacob Fiola
-   role: alumni
-   graduated: Spring 2020 [B.S.]
-   nowat: American Century
-   pic: jfiola.jpg
+- name: Jacob Fiola
+  role: alumni
+  graduated: Spring 2020 [B.S.]
+  nowat: American Century
+  pic: jfiola.jpg
 
- - name: Sousheel Vunnam
-   role: alumni
-   graduated: Spring 2020 [B.S.]
-   nowat: Amazon
-   pic: sousheel.jpg
+- name: Sousheel Vunnam
+  role: alumni
+  graduated: Spring 2020 [B.S.]
+  nowat: Amazon
+  pic: sousheel.jpg
 
- - name: Benjamin Page
-   role: alumni
-   pic: bpage.jpg
+- name: Benjamin Page
+  role: alumni
+  pic: bpage.jpg
 
- - name: Garrett Pierson
-   role: alumni
-   pic: garrett.jpg
+- name: Garrett Pierson
+  role: alumni
+  pic: garrett.jpg
 
- - name: Mayank Joshi
-   role: alumni
-   linkedin: mayank-joshi-768650b1
-   pic: mayank.jpg
+- name: Mayank Joshi
+  role: alumni
+  linkedin: mayank-joshi-768650b1
+  pic: mayank.jpg
 
- - name: Krishna Chaitanya Kodur
-   role: alumni
-   graduated: Summer 2020 [M.S.]
-   nowat: UT Arlington [Ph.D.]
-   linkedin: kodur-krishna-chaitanya
-   pic: krishna.jpg
+- name: Krishna Chaitanya Kodur
+  role: alumni
+  graduated: Summer 2020 [M.S.]
+  nowat: UT Arlington [Ph.D.]
+  linkedin: kodur-krishna-chaitanya
+  pic: krishna.jpg
 
- - name: Mohana Krishna Sanagavarapu
-   role: alumni
+- name: Mohana Krishna Sanagavarapu
+  role: alumni
 
- - name: Eleanor Sarder
-   role: alumni
-   linkedin: ellasarder
-   pic: esarder.jpg
+- name: Eleanor Sarder
+  role: alumni
+  linkedin: ellasarder
+  pic: esarder.jpg
 
- - name: Kandai Watanabe
-   role: alumni
-   nowat: ARIA Systems Group
+- name: Kandai Watanabe
+  role: alumni
+  nowat: ARIA Systems Group
 
- - name: Kyle Yamek
-   role: alumni
-   graduated: Fall 2020 [B.S.]
-   pic: kyle.jpg
+- name: Kyle Yamek
+  role: alumni
+  graduated: Fall 2020 [B.S.]
+  pic: kyle.jpg
 
- - name: William Wang
-   role: alumni
-   linkedin: william-wang-a445b4193
-   pic: wwang.jpg
+- name: William Wang
+  role: alumni
+  linkedin: william-wang-a445b4193
+  pic: wwang.jpg
